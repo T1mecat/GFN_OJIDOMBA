@@ -14,7 +14,7 @@
 
 А вот ссылка, по которой вы попадете прямо к боту https://telegram.me/alarmer_bot
 
-Попадаем в чат с ботом и просим у него API-KEY командой /start либо /key
+Попадаем в чат с ботом и просим у него API-KEY командой `/start` либо `/key`
 
 ![Telegram_eJomZLx8wg](https://user-images.githubusercontent.com/58136226/140643142-abf53d24-afe7-4426-bbb3-a1cac3ab8177.png)
 
@@ -38,7 +38,7 @@
 
 Галочку "Больше не спрашивать" можно нажать сразу, в таком случае, программа больше не спросит API-KEY и будет хранить его в конфиг файле по пути: 
 
-C:\Users\\`%UserName`%\Documents\timecat\OJIDOMBA
+`C:\Users\%UserName%\Documents\timecat\OJIDOMBA`
 
 Изменить API-KEY можно в любой момент, открыв config.ini блокнотом. Параметр - key. Параметр gui отвечает за отображение настроек и для его вызова должен быть в положении 0.
 
