@@ -8,6 +8,8 @@
 
 Для работы вам будет достаточно файла OJIDOMBA.exe на странице релизов https://github.com/T1mecat/GFN_OJIDOMBA/releases
 
+Вот прямая ссылка на него https://github.com/T1mecat/GFN_OJIDOMBA/releases/download/1/OJIDOMBA.exe
+
 Если вы боитесь EXE файлов, скрипт можно собрать из исходника или использовать просто так, если у вас утановлен AHK.
 
 
