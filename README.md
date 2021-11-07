@@ -28,13 +28,24 @@
 
 При первом запуске появится небольшое окно для настройки. 
 
+![OJIDOMBA_zgk1KKooMb](https://user-images.githubusercontent.com/58136226/140643467-45362bd5-362c-49ee-8ce3-42c260d02105.png)
+
+
 Введите в поле ввода полученный ранее API-KEY. 
+
+![OJIDOMBA_YOTo0a98pi](https://user-images.githubusercontent.com/58136226/140643483-1dac9cca-9979-42f7-9423-dd1325587d3a.png)
+
 
 Галочку "Больше не спрашивать" можно нажать сразу, в таком случае, программа больше не спросит API-KEY и будет хранить его в конфиг файле по пути: 
 
 C:\Users\%UserName%\Documents\timecat\OJIDOMBA
 
 Изменить API-KEY можно в любой момент, открыв config.ini блокнотом. Параметр - key. Параметр gui отвечает за отображение настроек и для его вызова должен быть в положении 0.
+
+Нажмите большую кнопку GOJDAT
+
+![OJIDOMBA_TnpALx5Dkc](https://user-images.githubusercontent.com/58136226/140643502-d68635b5-1725-4c1b-a8c0-42f44624b57c.png)
+
 
 # Использование
 
