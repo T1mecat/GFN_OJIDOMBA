@@ -8,6 +8,8 @@ EN версия работает с клиентом на английском �
 
 Мой дискорд, для вопросов и всякого: https://discord.gg/vFGybQ3Jze
 
+Поблагодарить и проспонсировать улучшение проекта: https://www.donationalerts.com/r/time_cat или https://donate.qiwi.com/payin/Timecat
+
 Для работы вам будет достаточно файла OJIDOMBA.exe на странице релизов https://github.com/T1mecat/GFN_OJIDOMBA/releases
 
 Вот прямая ссылка на него https://github.com/T1mecat/GFN_OJIDOMBA/releases/download/1/OJIDOMBA.exe
